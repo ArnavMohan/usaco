@@ -2,3 +2,5 @@ templates/*
 *.out
 */bin
 *.class
+*.swp
+*.swo
